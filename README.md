@@ -10,18 +10,18 @@ Each day includes **theory**, ** ✅ Tasks: coding**, and **interview Q&A**.
 ## 📅 Learning Plan
 
 ### **Week 1 – Introduction & Setup and Fundamentals**
-**Day 1:** [Intro to Spark & Setup](docs/day1.md)
+### **Day 1: - [Intro to Spark & Setup](docs/day1.md)**
   - What is PySpark? Why use it?
   - Install PySpark (local & in Jupyter/Colab).
   - Spark architecture: Driver, Executors, Cluster Manager.
   - SparkSession, Cluster overview, PySpark installation
   - ✅ [Tasks: Run Spark locally, Explore SparkSession, Hello World](models/Day1.ipynb).
 
-### **Day 2 – RDD Basics**
+### **Day 2 – [RDD Basics](docs/day2.md)**
 - What are RDDs? Transformations vs Actions.
 - Creating RDDs.
 - `map`, `filter`, `reduce`, `collect`.
-- ✅ Tasks: Word count example.
+- [ ✅ Tasks: Word count example](models/Day2.ipynb).
 
 ### **Day 3 – DataFrames Basics**
 - Intro to Spark SQL & DataFrames.
